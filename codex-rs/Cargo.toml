@@ -21,6 +21,7 @@ members = [
     "app-server-protocol",
     "app-server-protocol-noop-macros",
     "app-server-test-client",
+    "cc-codex-bridge",
     "apply-patch",
     "arg0",
     "feedback",
